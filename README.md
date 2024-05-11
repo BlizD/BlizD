@@ -1,4 +1,8 @@
-### Hi there 👋
+### Публикации инфостарта
+
+<div id="infostart_posts">
+
+</div>
 
 <!--
 **BlizD/BlizD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
