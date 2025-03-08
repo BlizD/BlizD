@@ -34,7 +34,7 @@
 
 
 Мои выступления на конференциях:
- * [Инфостарт - Жажда программирования – темный попутчик разработчика](https://infostart.ru/public/2231330/)
+ * [Инфостарт - (Выгорание) Жажда программирования – темный попутчик разработчика](https://infostart.ru/public/2231330/)
 [![telegram](https://img.shields.io/badge/telegram-channal-green.svg)](https://t.me/dark_companions)
 [![telegram](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/dark_companion)
 
