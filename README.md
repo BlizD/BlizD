@@ -3,6 +3,13 @@
 
 <h2 align="left">Антон Иванов - разработчик 1С</h2>
 
+[![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)](https://github.com/BlizD)
+[![Static Badge](https://img.shields.io/badge/Infostart-profile-blue)](https://infostart.ru/profile/265032)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/iabBliz/)
+![](https://komarev.com/ghpvc/?username=BlizD&color=blue) 
+![GitHub User's stars](https://img.shields.io/github/stars/BlizD?style=flat)
+
+
 Сейчас работаю на полной занятности
 
 
@@ -49,3 +56,4 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
