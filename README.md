@@ -3,7 +3,7 @@
 
 <h2 align="left">Антон Иванов - разработчик 1С</h2>
 
-[![Static Badge](https://img.shields.io/badge/Blog-channel-orange)]([https://t.me/xBlizD](https://t.me/dark_companions))
+[![Static Badge](https://img.shields.io/badge/Blog-channel-orange)](https://t.me/dark_companions)
 [![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)](https://t.me/xBlizD)
 [![Static Badge](https://img.shields.io/badge/Infostart-profile-blue)](https://infostart.ru/profile/265032)
 [![Static Badge](https://img.shields.io/badge/LinkedIn-profile-blue)](https://www.linkedin.com/in/iabBliz/)
@@ -59,6 +59,7 @@
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
 
 
 
