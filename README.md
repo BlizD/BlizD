@@ -21,14 +21,14 @@
 
 [![Stars](https://img.shields.io/github/stars/BlizD/Tasks.svg?label=Github%20%E2%98%85&a)](https://github.com/BlizD/Tasks/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/BlizD/Tasks/total.svg)]() 
-[![telegram](https://img.shields.io/badge/telegram-channal-green.svg)](https://t.me/tasksm)
+[![telegram](https://img.shields.io/badge/telegram-channel-green.svg)](https://t.me/tasksm)
 [![telegram](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/joinchat/KbD_hhM1tJGb3B3gz6QIvA)
 [![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/2/68359534.json)](https://openyellow.org/grid?data=top&repo=68359534)
  * [Согласование (подсистема). Для любого справочника и документа в 1С. Встраивается в любые конфигурации](https://github.com/BlizD/BPS)
 
 [![Stars](https://img.shields.io/github/stars/BlizD/BPS.svg?label=Github%20%E2%98%85&a)](https://github.com/BlizD/BPS/stargazers)
 [![Github All Releases](https://img.shields.io/github/downloads/BlizD/BPS/total.svg)](https://github.com/BlizD/BPS/releases)
-[![telegram](https://img.shields.io/badge/telegram-channal-green.svg)](https://t.me/mebps)
+[![telegram](https://img.shields.io/badge/telegram-channel-green.svg)](https://t.me/mebps)
 [![OpenYellow](https://img.shields.io/endpoint?url=https://openyellow.org/data/badges/1/59638035.json)](https://openyellow.org/grid?data=top&repo=59638035)
 
 * [Расширение для БСП для хранения файлов на s3 (minio, Amazon S3, Mail.Ru Cloud и т.п.)](https://github.com/BlizD/S3_SSL)
@@ -45,7 +45,7 @@
 
 Мои выступления на конференциях:
  * [Инфостарт - (Выгорание) Жажда программирования – темный попутчик разработчика](https://infostart.ru/public/2231330/)
-[![telegram](https://img.shields.io/badge/telegram-channal-green.svg)](https://t.me/dark_companions)
+[![telegram](https://img.shields.io/badge/telegram-channel-green.svg)](https://t.me/dark_companions)
 [![telegram](https://img.shields.io/badge/telegram-chat-green.svg)](https://t.me/dark_companion)
 
 Мои публикации:
